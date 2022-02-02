@@ -17,9 +17,8 @@
   <img align="center" alt="Xerly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Xerly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Xerly-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
   <img align="center" alt="Xerly-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Xerly-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Xerly-Next" height="30" width="40" src="https://styles.redditmedia.com/t5_3h7yi/styles/communityIcon_1cvjfamjpre71.png">
 </div>
   
   ##
