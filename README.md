@@ -1,6 +1,6 @@
 ### Hello! I am Ramon 👋
 
-- 🔭 I’m currently looking for a job as Front-end Developer or as Game Programmer
+- 🔭 I’m currently looking for a job as Front-end Developer
 - 🌱 I’m currently learning React and Next.js
 - 😄 Pronouns: he/his
 
