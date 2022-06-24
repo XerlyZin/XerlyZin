@@ -1,7 +1,7 @@
 ### Hello! I am Ramon 👋
 
-- 🔭 I’m currently looking for a job as Front-end Developer
-- 🌱 I’m currently learning React and Next.js at Alura
+- 🔭 I’m currently working at Triibo as Mobile Developer
+- 🌱 I’m currently learning React Native
 - 😄 Pronouns: he/his
 
 <div align="center">
